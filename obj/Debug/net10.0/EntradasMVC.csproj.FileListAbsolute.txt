@@ -97,3 +97,4 @@ C:\Users\loler\Desktop\Programacion\Visual\EntradasMVC\EntradasMVC\obj\Debug\net
 C:\Users\loler\Desktop\Programacion\Visual\EntradasMVC\EntradasMVC\obj\Debug\net10.0\EntradasMVC.genruntimeconfig.cache
 C:\Users\loler\Desktop\Programacion\Visual\EntradasMVC\EntradasMVC\obj\Debug\net10.0\ref\EntradasMVC.dll
 C:\Users\loler\Desktop\Programacion\Visual\EntradasMVC\EntradasMVC\obj\Debug\net10.0\Entradas.62291E73.Up2Date
+C:\Users\loler\Desktop\Programacion\Visual\EntradasMVC\EntradasMVC\obj\Debug\net10.0\EntradasMVC.sourcelink.json
